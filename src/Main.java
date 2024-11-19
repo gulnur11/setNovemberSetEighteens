@@ -23,6 +23,7 @@ public class Main {
         }
         System.out.println("HashSet Numbers " + setNumbers);
         System.out.println("Sum of HashSet numbers " + counter);
+        System.out.println("test");
 
 
 
